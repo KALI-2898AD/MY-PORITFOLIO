@@ -4,7 +4,7 @@
 A clean, responsive, and beginner-friendly personal portfolio website made using **HTML**, **CSS**, and **JavaScript**.  
 Perfect for showcasing your projects, skills, and resume as a B.Tech engineering student.
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](portifolio.png)
 
 ---
 

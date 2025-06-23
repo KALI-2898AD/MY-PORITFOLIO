@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background: #1e293b;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+header p {
+  font-size: 1rem;
+  margin-top: 5px;
+}
+
+section {
+  margin: 30px 0;
+}
+
+h2 {
+  color: #1e293b;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: square;
+  padding-left: 20px;
+}
+
+.project {
+  background: #f1f5f9;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.resume {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #2563eb;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.contact input,
+.contact textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+}
+
+.contact button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Dark Mode Support */
+.dark-mode {
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.dark-mode header {
+  background: #0f172a;
+}
+
+.dark-mode .project {
+  background: #1e293b;
+  color: #e2e8f0;
+}
+
+.dark-mode .resume,
+.dark-mode .contact button {
+  background: #64748b;
+}
+
+.dark-mode input,
+.dark-mode textarea {
+  background: #1e293b;
+  color: #e2e8f0;
+  border-color: #334155;
+}

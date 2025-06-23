@@ -24,10 +24,16 @@ Perfect for showcasing your projects, skills, and resume as a B.Tech engineering
 
 ### 📂 Folder Structure
 portfolio/
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── script.js
+<br>
 └── resume.pdf # (Optional)
+
+
 
 ### 💻 Live Preview
 

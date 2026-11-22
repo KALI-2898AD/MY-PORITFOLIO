@@ -1,81 +1,57 @@
-# MY-PORITFOLIO
-# 👨‍💻 B.Tech Student Portfolio
+# Medapati Karthik Reddy
 
-A clean, responsive, and beginner-friendly personal portfolio website made using **HTML**, **CSS**, and **JavaScript**.  
-Perfect for showcasing your projects, skills, and resume as a B.Tech engineering student.
+### Computer Science & Engineering | Big Data Analytics
 
----
+B.Tech student at SRM Institute of Science and Technology, interested in Data Analytics, Machine Learning, Database Systems, and Software Development.
 
-## ✨ Features
+I focus on using data to solve practical problems, building predictive applications, and developing database-driven solutions.
 
-- 🧑‍🎓 Modern student introduction section
-- 🧠 Skills and technology list
-- 📁 Projects with descriptions
-- 📄 Downloadable Resume section
-- 📬 Contact form with validation
-- 🌓 Dark mode toggle
-- ✅ Mobile-friendly layout
+## Technical Skills
 
----
+- **Programming:** Python, Java, SQL
+- **Data Analytics:** pandas, NumPy, Power BI
+- **Machine Learning:** scikit-learn, Data Preprocessing, Predictive Modeling
+- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Databases:** MySQL, MongoDB
+- **Developer Tools:** Git, GitHub, VS Code
 
-## 🚀 Getting Started
+## Featured Projects
 
-### 📂 Folder Structure
-portfolio/
-<br>
-├── index.html
-<br>
-├── style.css
-<br>
-├── script.js
-<br>
-└── resume.pdf # (Optional)
+### 1. Household Finance Analytics
 
+An analytics project focused on understanding household income, expenses, budgeting, and savings through Python, SQL, and Power BI.
 
+**Technologies:** Python, pandas, SQL, Power BI
 
-### 💻 Live Preview
+### 2. Student Performance Prediction
 
-Open `index.html` in your browser.
+A machine learning application exploring student academic performance and prediction using educational data.
 
----
+**Technologies:** Python, Flask, scikit-learn
 
-## 🔧 Tech Stack
+[View Project](https://github.com/KALI-2898AD/student-perfomance-prediction)
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+### 3. Attendance Through Face Recognition
 
----
+A face-recognition-based attendance management project integrating computer vision and database storage.
 
-## 📝 Customize It
+**Technologies:** Python, OpenCV, MySQL
 
-- Replace `"Your Name"` with your actual name
-- Update `resume.pdf` with your real resume
-- Add real projects with titles & descriptions
-- Modify colors or layout in `style.css`
-- Host it for free using:
-  - [GitHub Pages](https://pages.github.com/)
-  - [Netlify](https://netlify.com/)
-  - [Vercel](https://vercel.com/)
+[View Project](https://github.com/KALI-2898AD/attendance-through-face-recognition)
+
+### 4. Synra Market
+
+A web application project exploring modern e-commerce development and database integration.
+
+**Technologies:** Next.js, MongoDB
+
+[View Project](https://github.com/KALI-2898AD/kmart)
+
+## Professional Links
+
+- [GitHub](https://github.com/KALI-2898AD)
+- [LinkedIn](https://www.linkedin.com/in/karthik-reddy-medapati-330454371/)
 
 ---
 
-## 📸 Screenshot
-
-> Add your own screenshot like below and name it `screenshot.png` 
----
-
-## 📬 Contact
-
-Want to connect?  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourusername)
-
----
-
-## 📄 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
-
-## Author
-Medapati Karthik reddy
+*Building practical solutions through analytics, machine learning, and software development.*
